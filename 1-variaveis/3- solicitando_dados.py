@@ -1,3 +1,4 @@
+
 import os 
 
 # Limpa a terminal.
